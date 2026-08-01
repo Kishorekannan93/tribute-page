@@ -14,7 +14,7 @@
 
 # 🌐 Live Demo
 
-🔗 **https://kishorekannan93.github.io/Tribute-Page/**
+🔗 **https://kishorekannan93.github.io/tribute-page/**
 
 > *(Replace with your actual GitHub Pages URL if different.)*
 
